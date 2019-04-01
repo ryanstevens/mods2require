@@ -1,0 +1,19 @@
+{
+  "name": "mods2require",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanstevens/mods2require.git"
+  },
+  "author": "Ryan Stevens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanstevens/mods2require/issues"
+  },
+  "homepage": "https://github.com/ryanstevens/mods2require#readme"
+}
